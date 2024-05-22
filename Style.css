@@ -1,0 +1,7 @@
+.imagenProducto {
+    width:250px;
+    height: 250px; 
+    object-fit: cover; 
+    display: block; 
+    margin: 0px auto;
+}
